@@ -13,14 +13,12 @@ This repository is my study notebook. It shows what I am learning, what I have f
 - Learn IT support and networking
 - Study for CompTIA A+ Core 1
 - Practice cybersecurity skills
-- Build a habit of learning every week
+- Build a habit of learning whenever I have time
 
-## Progress
+## Current progress
 
-- ✅ Week 1 — CompTIA A+ basics
-- ⬜ Week 2 — coming soon
-- ⬜ Week 3 — coming soon
-- ⬜ Week 4 — coming soon
+- Learning at my own pace with notes and topics added as I go
+- CompTIA A+ basics and related IT fundamentals are being documented here
 
 ## Current course
 
@@ -44,7 +42,7 @@ This repository is my study notebook. It shows what I am learning, what I have f
 
 ## Notes location
 
-- My current A+ notes are in `01-IT-Fundamentals/Week-01/`
+- My current A+ notes are in `01-IT-Fundamentals/CompTIA-A-Plus/`
 
 ## Helpful link
 

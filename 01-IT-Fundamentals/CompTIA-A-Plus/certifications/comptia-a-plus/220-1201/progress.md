@@ -13,5 +13,6 @@
 | **1.2 Mobile Device Configuration** | **✅ Completed** | [Notes](notes/1.2-mobile-device-configuration.md) | 2026-07-20 |
 | **1.3 Mobile Connectivity + Management** | **✅ Completed** | [Notes](notes/1.3-mobile-connectivity.md) | 2026-07-21 |
 | **2.1 Ports and Protocols** | **✅ Completed** | [Notes](notes/2.1-ports-and-protocols.md) | 2026-07-25 |
+| **2.2 Wireless Network Technologies** | **✅ Completed** | [Notes](notes/2.2-wireless-network-technologies.md) | 2026-07-27 |
 
 **Next:** 1.3 – Mobile Connectivity

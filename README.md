@@ -20,6 +20,22 @@ This repository is my study notebook. It shows what I am learning, what I have f
 - Learning at my own pace with notes and topics added as I go
 - CompTIA A+ basics and related IT fundamentals are being documented here
 
+## Current progress snapshot
+
+The full study tracker is available in [01-IT-Fundamentals/CompTIA-A-Plus/certifications/comptia-a-plus/220-1201/progress.md](01-IT-Fundamentals/CompTIA-A-Plus/certifications/comptia-a-plus/220-1201/progress.md).
+
+| Section | Completion | Notes | Date Completed |
+|---------|------------|-------|----------------|
+| 1.1 Laptop Hardware | ✅ Completed | [Notes](01-IT-Fundamentals/CompTIA-A-Plus/certifications/comptia-a-plus/220-1201/notes/1.1-laptop-hardware.md) | 2026-07-20 |
+| 1.2 Mobile Device Configuration | ✅ Completed | [Notes](01-IT-Fundamentals/CompTIA-A-Plus/certifications/comptia-a-plus/220-1201/notes/1.2-mobile-device-configuration.md) | 2026-07-20 |
+| 1.3 Mobile Connectivity + Management | ✅ Completed | [Notes](01-IT-Fundamentals/CompTIA-A-Plus/certifications/comptia-a-plus/220-1201/notes/1.3-mobile-connectivity.md) | 2026-07-21 |
+| 2.1 Ports and Protocols | ✅ Completed | [Notes](01-IT-Fundamentals/CompTIA-A-Plus/certifications/comptia-a-plus/220-1201/notes/2.1-ports-and-protocols.md) | 2026-07-25 |
+| 2.2 Wireless Network Technologies | ✅ Completed | [Notes](01-IT-Fundamentals/CompTIA-A-Plus/certifications/comptia-a-plus/220-1201/notes/2.2-wireless-network-technologies.md) | 2026-07-27 |
+| 2.3 Network Services | ✅ Completed | [Notes](01-IT-Fundamentals/CompTIA-A-Plus/certifications/comptia-a-plus/220-1201/notes/2.3-network-services.md) | 2026-07-27 |
+| 2.4 DNS Configuration | ✅ Completed | [Notes](01-IT-Fundamentals/CompTIA-A-Plus/certifications/comptia-a-plus/220-1201/notes/2.4-dns-configuration.md) | 2026-07-28 |
+
+**Next:** 1.3 – Mobile Connectivity
+
 ## Current course
 
 - CompTIA A+ Core 1 (220-1201)

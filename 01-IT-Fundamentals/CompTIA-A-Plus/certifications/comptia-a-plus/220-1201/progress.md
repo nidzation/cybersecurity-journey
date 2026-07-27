@@ -15,5 +15,6 @@
 | **2.1 Ports and Protocols** | **✅ Completed** | [Notes](notes/2.1-ports-and-protocols.md) | 2026-07-25 |
 | **2.2 Wireless Network Technologies** | **✅ Completed** | [Notes](notes/2.2-wireless-network-technologies.md) | 2026-07-27 |
 | **2.3 Network Services** | **✅ Completed** | [Notes](notes/2.3-network-services.md) | 2026-07-27 |
+| **2.4 DNS Configuration** | **✅ Completed** | [Notes](notes/2.4-dns-configuration.md) | 2026-07-28 |
 
 **Next:** 1.3 – Mobile Connectivity
